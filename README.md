@@ -2,6 +2,7 @@
 
 11조
 
+
 ## 파이썬 파일 실행
 rasberrypi_ex_code/amg88xx_simpletest.py
 
@@ -25,6 +26,8 @@ rasberrypi_ex_code/amg88xx_simpletest.py
 - 무한 루프에서 센서에서 읽은 온도를 바탕으로 사람 감지 여부를 판단
 - 사람이 감지되면 서버 프로세스(server.cpp)를 실행하고, 서버가 실행되지 않도록 조건을 설정
 - 사람이 감지되지 않으면 서버 프로세스를 종료하고, 조건을 재설정
+
+
 
 ## 스마트폰 실행 앱 
 smartphone_tcp_code 폴더에 있습니다.
